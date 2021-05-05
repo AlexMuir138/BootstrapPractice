@@ -1,0 +1,10 @@
+:root{
+  --maple-color: #280f11;
+}
+
+.bg-maple{
+  background-color: var(--maple-color);
+}
+.container-fluid{
+  font-family: 'Playfair Display', serif;
+}
